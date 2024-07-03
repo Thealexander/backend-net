@@ -1,0 +1,17 @@
+d:\localRepository\ecommerce\backend-net\src\Infraestructure\bin\Debug\net7.0\Ecommerce.Infraestructure.deps.json
+d:\localRepository\ecommerce\backend-net\src\Infraestructure\bin\Debug\net7.0\Ecommerce.Infraestructure.dll
+d:\localRepository\ecommerce\backend-net\src\Infraestructure\bin\Debug\net7.0\Ecommerce.Infraestructure.pdb
+d:\localRepository\ecommerce\backend-net\src\Infraestructure\bin\Debug\net7.0\Ecommerce.Application.dll
+d:\localRepository\ecommerce\backend-net\src\Infraestructure\bin\Debug\net7.0\Ecommerce.Domain.dll
+d:\localRepository\ecommerce\backend-net\src\Infraestructure\bin\Debug\net7.0\Ecommerce.Application.pdb
+d:\localRepository\ecommerce\backend-net\src\Infraestructure\bin\Debug\net7.0\Ecommerce.Domain.pdb
+d:\localRepository\ecommerce\backend-net\src\Infraestructure\obj\Debug\net7.0\Ecommerce.Infraestructure.csproj.AssemblyReference.cache
+d:\localRepository\ecommerce\backend-net\src\Infraestructure\obj\Debug\net7.0\Ecommerce.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+d:\localRepository\ecommerce\backend-net\src\Infraestructure\obj\Debug\net7.0\Ecommerce.Infraestructure.AssemblyInfoInputs.cache
+d:\localRepository\ecommerce\backend-net\src\Infraestructure\obj\Debug\net7.0\Ecommerce.Infraestructure.AssemblyInfo.cs
+d:\localRepository\ecommerce\backend-net\src\Infraestructure\obj\Debug\net7.0\Ecommerce.Infraestructure.csproj.CoreCompileInputs.cache
+d:\localRepository\ecommerce\backend-net\src\Infraestructure\obj\Debug\net7.0\Ecommerce.Infraestructure.csproj.CopyComplete
+d:\localRepository\ecommerce\backend-net\src\Infraestructure\obj\Debug\net7.0\Ecommerce.Infraestructure.dll
+d:\localRepository\ecommerce\backend-net\src\Infraestructure\obj\Debug\net7.0\refint\Ecommerce.Infraestructure.dll
+d:\localRepository\ecommerce\backend-net\src\Infraestructure\obj\Debug\net7.0\Ecommerce.Infraestructure.pdb
+d:\localRepository\ecommerce\backend-net\src\Infraestructure\obj\Debug\net7.0\ref\Ecommerce.Infraestructure.dll

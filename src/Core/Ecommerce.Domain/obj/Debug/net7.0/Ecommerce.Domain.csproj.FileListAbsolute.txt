@@ -1,0 +1,12 @@
+d:\localRepository\ecommerce\backend-net\src\Core\Ecommerce.Domain\bin\Debug\net7.0\Ecommerce.Domain.deps.json
+d:\localRepository\ecommerce\backend-net\src\Core\Ecommerce.Domain\bin\Debug\net7.0\Ecommerce.Domain.dll
+d:\localRepository\ecommerce\backend-net\src\Core\Ecommerce.Domain\bin\Debug\net7.0\Ecommerce.Domain.pdb
+d:\localRepository\ecommerce\backend-net\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.csproj.AssemblyReference.cache
+d:\localRepository\ecommerce\backend-net\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+d:\localRepository\ecommerce\backend-net\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.AssemblyInfoInputs.cache
+d:\localRepository\ecommerce\backend-net\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.AssemblyInfo.cs
+d:\localRepository\ecommerce\backend-net\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.csproj.CoreCompileInputs.cache
+d:\localRepository\ecommerce\backend-net\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.dll
+d:\localRepository\ecommerce\backend-net\src\Core\Ecommerce.Domain\obj\Debug\net7.0\refint\Ecommerce.Domain.dll
+d:\localRepository\ecommerce\backend-net\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.pdb
+d:\localRepository\ecommerce\backend-net\src\Core\Ecommerce.Domain\obj\Debug\net7.0\ref\Ecommerce.Domain.dll

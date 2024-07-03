@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8ElgRjziob0TacuSMDhoYUtjTiKgHbysL/doGHtsmyjPSVYf2oNnOLmxNPIfWNffUL7gPPusXvzIfnDuUNs81w==",
+  "dgSpecHash": "mq8w5FNhiR5SKYRuB/klCfkz4BJfjgoRaQOG0EAINhjJwN4Qs8kMS68StLXdVEXUn9EIbL+OHfZLag9jMvmvNQ==",
   "success": true,
-  "projectFilePath": "D:\\localRepository\\ecommerce\\backend-net\\src\\Infraestructure\\Ecommerce.Infraestructure.csproj",
+  "projectFilePath": "d:\\localRepository\\ecommerce\\backend-net\\src\\Infraestructure\\Ecommerce.Infraestructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
